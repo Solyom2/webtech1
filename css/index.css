@@ -1,0 +1,59 @@
+.contentImage {
+    width: 350px;
+    height: 200px;
+}
+body {
+    background-color: greenyellow;
+}
+
+a:link{
+    color: darkblue;
+}
+
+a:visited {
+    color: darkred;
+}
+
+#banner {
+    background: aquamarine;
+    text-align: center;
+    font-size: 14px;
+    color: darkgreen;
+    font-style: oblique;
+    font-size: 20px
+}
+
+#menuBar {
+    font-size: 17px;
+    background: lightseagreen;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#menuBar .menuButton {
+    width: 15px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 15px;
+}
+
+#menuBar .menuButton:HOVER {
+    background: black;
+    color: white;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.innerTable {
+    width: auto;
+}
+
+#everything {
+    margin: auto;
+    width:100%;
+}

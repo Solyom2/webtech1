@@ -1,0 +1,22 @@
+body {
+    background-color: peachpuff;
+}
+
+table {
+    border: 2px dotted blue;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    font-family: "Abyssinica SIL";
+    margin-bottom: 10px;
+}
+
+.buttonHolder {
+    text-align: center;
+}
+
+input {
+    background-color: lightgreen;
+    font-style: italic;
+}

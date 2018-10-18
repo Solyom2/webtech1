@@ -1,0 +1,25 @@
+body {
+    background-color: khaki;
+}
+
+table {
+    border: 3px solid red;
+    width: auto;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: "DejaVu Sans";
+    margin-bottom: 10px;
+}
+
+input {
+    background-color: yellow;
+    font-style: italic;
+}
+
+select {
+    padding: 4px;
+}
+
+.buttonHolder {
+   text-align: center;
+}
